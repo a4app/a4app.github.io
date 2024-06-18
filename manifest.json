@@ -1,6 +1,6 @@
 {
-    "name": "Web App",
-    "short_name": "Web App",
+    "name": "upload",
+    "short_name": "upload",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
@@ -10,7 +10,7 @@
     "prefer_related_applications": false,
     "icons": [
         {
-            "src": "icons/ic_launcher.png",
+            "src": "favicon.png",
             "sizes": "192x192",
             "type": "image/png"
         }
